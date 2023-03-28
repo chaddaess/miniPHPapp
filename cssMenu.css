@@ -1,0 +1,31 @@
+a
+{
+    color:black;
+    text-decoration: none;
+}
+
+a:hover
+{
+    color:white;
+}
+
+
+.hello
+{
+    position: absolute;
+    top:10%;
+    left: 45%;
+}
+
+button
+{
+    height: 1.5cm;
+    width: 4cm;
+
+
+}
+
+body
+{
+background-color: #060b49;
+}
